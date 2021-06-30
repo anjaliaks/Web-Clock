@@ -7,5 +7,4 @@ HTML, CSS & JavaScript
 # Text Editor
 Sublime Text <3
 
-# Check it out here-
-link- http://anjaliaks.github.io/Web-Clock/
+# Check it out <a href='http://anjaliaks.github.io/Web-Clock/' targt='_blank'>here</a>
